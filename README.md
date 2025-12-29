@@ -1,4 +1,4 @@
-# my-web-project
+# My-web-project
 This is a Basic web Page Created using HTML and CSS.
 
 ## Files
